@@ -95,6 +95,20 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.button {
+    background-color: red;
+    width:100px;
+    height:100px;
+    border-radius: 100px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    
+    
+}
+
+.activate { 
+    position: fixed
 
 
 

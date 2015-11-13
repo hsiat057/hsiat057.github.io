@@ -1,0 +1,22 @@
+body {
+    width: 400px;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 0;
+}
+
+.square {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+}
+
+.bird {
+    position: fixed;
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    padding: 30px;
+}
+
