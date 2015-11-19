@@ -1,0 +1,51 @@
+
+.centerbox{
+    margin: auto;
+    width: 400px;
+     height: 400px;
+    padding: 20px;
+
+}
+
+
+.fuck{
+    margin: auto;
+    width:100%;
+    height: 100%;     
+ 
+}
+
+
+.buttonright{
+    
+    position:relative;
+    top:50%;
+    float:right;
+    
+    }
+    
+    .buttonleft{
+    float:left;
+    top:50%;
+    position:relative;
+    
+    }
+
+
+
+.moons{
+    margin: auto;
+    width: 900px;
+    padding: 20px;
+    
+}
+
+
+.moon1{
+    position:float;
+   
+    
+}
+
+
+
